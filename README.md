@@ -19,4 +19,4 @@ Terraform
 
 ## Authors
 
-Muhammad
+Muhammad Shafi
